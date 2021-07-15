@@ -5,6 +5,8 @@ This is a minimalist theme for Xcode with the look&feel of the Visual Studio's D
 
 ![xcode-visual-studio-theme](https://github.com/kutyel/xcode-visual-studio-theme/blob/master/theme-preview.png?raw=true)
 
+Edited to match my VS look set xcode to dark for full effect. Almost same as original just a few tweaks thanks Kutyel!
+
 Installation
 =======================
 
